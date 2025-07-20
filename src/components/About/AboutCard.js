@@ -15,7 +15,7 @@ function AboutCard() {
             <br />
             I’m not working at a big tech company… yet 😎
             <br />
-            But I’ve been busy learning, <span className="purple">building, breaking, and rebuilding</span> — mostly in the world of web development, with a soft spot for <span className="purple">Blockchain and React, Node.js</span>, and all things <span className="purple">JavaScript.</span>
+            But I’ve been busy learning, <span className="purple">building, breaking, and rebuilding</span> — mostly in the world of web development, with a soft spot for <span className="purple">Blockchain, React, Node.js</span>, and all things <span className="purple">JavaScript.</span>
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
