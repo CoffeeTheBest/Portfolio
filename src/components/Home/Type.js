@@ -12,7 +12,6 @@ function Type() {
           "Open Source Contributor",
           "UI/UX Designer",
           "Blockchain Enthusiast",
-          "Competitive Coder",
         ],
         autoStart: true,
         loop: true,
