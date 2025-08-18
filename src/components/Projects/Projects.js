@@ -4,7 +4,9 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import elegant from "../../Assets/Projects/elegant.png";
 import overclocked from "../../Assets/Projects/overclocked.png";
-
+import cosmicsandbox from "../../Assets/Projects/cosmicsandbox.png";
+import enchanted from "../../Assets/Projects/enchanted.png";
+import diagrammatic from "../../Assets/Projects/diagrammatic.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
